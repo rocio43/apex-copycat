@@ -385,7 +385,6 @@ nav .menudropdown .links li:hover .sub-menu2{
 .card-3 img{
   width: 440px;
   height: 286px;
-  object-fit: contain;
   border-radius: 5px 5px 0px 0px;
 }
 footer{
