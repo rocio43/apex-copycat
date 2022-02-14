@@ -183,7 +183,7 @@ nav .menudropdown .links li:hover .sub-menu2{
   flex-direction: column;
   flex-wrap: wrap;
   align-content: center;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   gap: 20px;
 }
@@ -524,7 +524,7 @@ footer a{
     line-height: 44.8px;
   } 
 }
-@media (max-width: 575px) {
+@media (max-width: 700px) {
     
   .content-2 h2{
     font-size: 40px;
