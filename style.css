@@ -323,7 +323,7 @@ nav .menudropdown .links li:hover .sub-menu2{
   margin: 0 auto;
   color: var(--primary-color);
   text-align: center;
-  margin: 0 20px;
+  margin: 0px 20px 40px;
 }
 .box-3 p{
   margin: 24px 0 64px;
